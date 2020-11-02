@@ -29,8 +29,8 @@ body {
   } */
 
 .col {
-  padding-right: 7px;
-  padding-left: 7px;
+  padding-right: 8px;
+  padding-left: 8px;
 }
 
 #logo {
@@ -255,13 +255,13 @@ body {
   border-radius: 10px;
   top: 0;
   left: 0;
-  background-color: rgba(0, 0, 0, 0.15);
+  background-color: rgba(0, 0, 0, 0.5);
 }
 
 .chatTitle {
   position: relative;
   z-index: 1;
-  max-width: 80%;
+  max-width: 75%;
   font-weight: 500;
   font-size: 20px;
   color: white;
